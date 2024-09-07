@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://extonveas.github.io/sitemap.html.gz
+Sitemap: https://extonveas.github.io/app/sitemap.html.gz
+Sitemap: https://extonveas.github.io/assets/sitemap.html.gz
+Sitemap: https://extonveas.github.io/css/sitemap.html.gz
+Sitemap: https://extonveas.github.io/includes/sitemap.html.gz
+Sitemap: https://extonveas.github.io/item/sitemap.html.gz
+Sitemap: https://extonveas.github.io/src/sitemap.html.gz
